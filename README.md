@@ -25,7 +25,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/Yiy885Y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![ezgif com-gif-maker](https://user-images.githubusercontent.com/81997674/195759820-331d79d6-8205-4d0c-a165-678018339837.gif)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://imgur.com/Yiy885Y
 
 
@@ -49,9 +50,3 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/dYl3sFd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://i.imgur.com/dYl3sFd.gif
