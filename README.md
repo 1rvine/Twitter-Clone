@@ -21,15 +21,6 @@ The following **bonus** features are implemented:
 - [ ] User can view their profile in a profile tab. (3pts)
 - [ ] User sees embedded images in tweet if available. (3pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='![ezgif com-gif-maker](https://user-images.githubusercontent.com/81997674/195759820-331d79d6-8205-4d0c-a165-678018339837.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://imgur.com/Yiy885Y
-
-
 
 **Name of your app** is a basic twitter app to read your tweets.
 
